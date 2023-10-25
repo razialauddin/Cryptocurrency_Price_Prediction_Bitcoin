@@ -1,4 +1,5 @@
 Cryptocurrency Price Prediction Using Deep Learning
+This is just the model of deep learning. There is no UI for this model.
 
 1. Open 'Cryptocurrency_Price_Prediction.ipynb' in Google Colab.
 2. Upload dataset 'Binance_BTCUSDT_d(12_2017_12_2022).csv' before run the code.
